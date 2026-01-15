@@ -1,12 +1,17 @@
-#So sánh kiến trúc CISC và RISC
+# So sánh kiến trúc CISC và RISC
 
-#Khái niệm cơ bản
-##Khái niệm cơ bản về CISC (Complex Instruction Set Computer)
+# Khái niệm cơ bản
+
+## Khái niệm cơ bản về CISC (Complex Instruction Set Computer)
+
 A complex instruction set computer (CISC /ˈsɪsk/) is a computer architecture in which single instructions can execute several low-level operations (such as a load from memory, an arithmetic operation, and a memory store) or are capable of multi-step operations or addressing modes within single instructions
-##Khái niệm cơ bản về RISC (Reduced Instruction Set Computer)
+
+## Khái niệm cơ bản về RISC (Reduced Instruction Set Computer)
+
 In electronics and computer science, a reduced instruction set computer (RISC, pronounced "risk") is a computer architecture designed to simplify the individual instructions given to the computer to accomplish tasks.
 
-##So sánh theo tiêu chí
+## So sánh theo tiêu chí
+
 (Có tham khảo ChatGPT)
 | Mục | Tiêu chí | CISC | RISC |
 | ----------------------- | ---------------------- | ------------------------------------- | ------------------------------------------ |
